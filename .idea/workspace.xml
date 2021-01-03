@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b7928fc-7225-4c53-987c-062e6c3d895a" name="Default Changelist" comment="WindMachine with real Data from Json">
+      <change afterPath="$PROJECT_DIR$/.idea/2020_NEEPortal_Scrum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/components/LineChartWindturbine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/components/LineChartWindturbineRealData.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/components/LineChartWindturbineRealData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/components/Photovoltaic.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/components/Photovoltaic.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lQIza7xQKAD8ySmRO14EUX4l5K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/src/components" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b7928fc-7225-4c53-987c-062e6c3d895a" name="Default Changelist" comment="" />
+      <created>1607523151232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607523151232</updated>
+      <workItem from="1607523152313" duration="11085000" />
+      <workItem from="1607547224294" duration="3207000" />
+      <workItem from="1608044153322" duration="8285000" />
+      <workItem from="1608053297469" duration="2622000" />
+      <workItem from="1608064185647" duration="1234000" />
+      <workItem from="1608067729698" duration="215000" />
+      <workItem from="1608119178763" duration="2764000" />
+      <workItem from="1609682014411" duration="11000" />
+    </task>
+    <task id="LOCAL-00001" summary="WindMachine with real Data from Json...">
+      <created>1608065035745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608065035745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update WindTurbine graph">
+      <created>1608067920327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608067920327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="WindMachine with real Data from Json" />
+    <MESSAGE value="WindMachine with real Data from Json..." />
+    <MESSAGE value="deleting old useless class" />
+    <MESSAGE value="Update WindTurbine graph" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update WindTurbine graph" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="322" key="#Notifications" timestamp="1608064798853">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="482" y="322" key="#Notifications/0.23.1536.937@0.23.1536.937" timestamp="1608064798853" />
+    <state x="426" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607534090573">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="426" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1607534090573" />
+    <state x="662" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608054977261">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="662" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1536.937@0.23.1536.937" timestamp="1608054977261" />
+    <state x="498" y="85" key="CommitChangelistDialog2" timestamp="1608067915143">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="498" y="85" key="CommitChangelistDialog2/0.23.1536.937@0.23.1536.937" timestamp="1608067915143" />
+    <state x="788" y="219" key="Feedback.Dialog.Title" timestamp="1608122966141">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="788" y="219" key="Feedback.Dialog.Title/0.23.1536.937@0.23.1536.937" timestamp="1608122966141" />
+    <state x="550" y="213" key="IDE.errors.dialog" timestamp="1607534052674">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="550" y="213" key="IDE.errors.dialog/0.23.1536.937@0.23.1536.937" timestamp="1607534052674" />
+    <state x="711" y="199" key="RollbackChangesDialog" timestamp="1607534788029">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="711" y="199" key="RollbackChangesDialog/0.23.1536.937@0.23.1536.937" timestamp="1607534788029" />
+    <state x="539" y="130" key="SettingsEditor" timestamp="1608064404461">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="539" y="130" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1608064404461" />
+    <state x="811" y="262" width="412" height="254" key="Tfvc.Branch.Dialog.Title" timestamp="1608123693046">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="811" y="262" width="412" height="254" key="Tfvc.Branch.Dialog.Title/0.23.1536.937@0.23.1536.937" timestamp="1608123693046" />
+    <state x="650" y="226" key="Tfvc.Label.Dialog.Title" timestamp="1608122853367">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="650" y="226" key="Tfvc.Label.Dialog.Title/0.23.1536.937@0.23.1536.937" timestamp="1608122853367" />
+    <state x="762" y="368" key="VCS.EditChangelistDialog" timestamp="1608054850925">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="762" y="368" key="VCS.EditChangelistDialog/0.23.1536.937@0.23.1536.937" timestamp="1608054850925" />
+    <state x="735" y="23" width="800" height="903" key="dock-window-1" timestamp="1607547347711">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="735" y="23" width="800" height="903" key="dock-window-1/0.23.1536.937@0.23.1536.937" timestamp="1607547347711" />
+  </component>
+</project>

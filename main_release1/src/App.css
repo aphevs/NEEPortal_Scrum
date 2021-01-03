@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.Title{
+  text-align: center;
+}
+
+.but{
+  display:block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+
+  margin:5px 5px 5px 5px;
+  float: left;
+}
+
+
+.square-box{
+  align-content: center;
+  position: relative;
+  width: 220px;
+  height: 220px;
+  border-style: solid;
+  border-color: black;
+  padding: 3px;
+}
+
+
+
+.square-content{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  color: red;
+  text-align: center;
+}
