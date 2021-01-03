@@ -25,7 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1lQIza7xQKAD8ySmRO14EUX4l5K" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -36,7 +36,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,6 +62,7 @@
       <workItem from="1608067729698" duration="215000" />
       <workItem from="1608119178763" duration="2764000" />
       <workItem from="1609682014411" duration="11000" />
+      <workItem from="1609685193016" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="WindMachine with real Data from Json...">
       <created>1608065035745</created>

@@ -11,6 +11,8 @@ import PrivateInstallation from './components/PrivateInstallation';
 
 function App() {
 
+  //Test
+
   return (
       <>
       <BrowserRouter>
